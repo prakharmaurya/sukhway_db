@@ -1,0 +1,1821 @@
+{
+    "prime_categories": [
+        {
+            "id": 1,
+            "images": [
+                "https://img.naidunia.com/naidunia/worship_method_21_01_2017.jpg",
+                "https://www.indiafeeds.org/wp-content/uploads/2021/02/vastu-tips-for-neev-pujan.jpg",
+                "https://www.haribhoomi.com/cms/gall_content/2017/5/home_2017050410352533.jpg"
+            ],
+            "name": "नींव-पुजन-(भराई)-हेतु-साम्रग्री",
+            "slug": "neev-pujani-bharai-hetu-samagri",
+            "samagries": [
+                {
+                    "name": "नवीन ईट (बालू, मौरंग सीमेंट) नीव भराई हेतु",
+                    "image": "",
+                    "price": "",
+                    "quantity": "11 पीस",
+                    "isOptional": false,
+                    "id": 1
+                },
+                {
+                    "name": "सिक्के",
+                    "image": "",
+                    "price": "",
+                    "quantity": "5 पीस",
+                    "isOptional": true,
+                    "id": 2
+                },
+                {
+                    "name": "तुलसी की पत्तिया",
+                    "image": "",
+                    "price": "",
+                    "quantity": "35 पीस",
+                    "isOptional": false,
+                    "id": 3
+                },
+                {
+                    "name": "पान के पत्ते (समचे)",
+                    "image": "",
+                    "price": "",
+                    "quantity": "11 पीस",
+                    "isOptional": false,
+                    "id": 4
+                },
+                {
+                    "name": "तांबे का कलश (ढक्कन समेत)",
+                    "image": "",
+                    "price": "",
+                    "quantity": "1 पीस",
+                    "isOptional": true,
+                    "id": 5
+                },
+                {
+                    "name": "वास्तु यंत्र",
+                    "image": "",
+                    "price": 200,
+                    "quantity": "1 पीस",
+                    "isOptional": false,
+                    "id": 6
+                },
+                {
+                    "name": "मिट्टी के दीपक",
+                    "image": "",
+                    "price": "",
+                    "quantity": "11 पीस",
+                    "isOptional": false,
+                    "id": 7
+                },
+                {
+                    "name": "चाँदी के नाग-नागिन का जोड़ा",
+                    "image": "",
+                    "price": "",
+                    "quantity": "1 पीस",
+                    "isOptional": true,
+                    "id": 8
+                },
+                {
+                    "name": "चाँदी की मछली",
+                    "image": "",
+                    "price": "",
+                    "quantity": "1 पीस",
+                    "isOptional": true,
+                    "id": 9
+                },
+                {
+                    "name": "चाँदी का कछुआ",
+                    "image": "",
+                    "price": "",
+                    "quantity": "1 पीस",
+                    "isOptional": true,
+                    "id": 10
+                },
+                {
+                    "name": "पानी वाला नारियल",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "1 पीस",
+                    "isOptional": false,
+                    "id": 11
+                },
+                {
+                    "name": "लोहे की कीलें",
+                    "image": "",
+                    "price": "",
+                    "quantity": "4 पीस",
+                    "isOptional": false,
+                    "id": 12
+                },
+                {
+                    "name": "छोटे आकार के औजार",
+                    "image": "",
+                    "price": "",
+                    "quantity": "5 पीस",
+                    "isOptional": false,
+                    "id": 13
+                },
+                {
+                    "name": "फल 5 प्रकार के",
+                    "image": "",
+                    "price": "",
+                    "quantity": "250-250 ग्राम",
+                    "isOptional": false,
+                    "id": 14
+                },
+                {
+                    "name": "पंचरत्न व पंचधातु",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "1 डिब्बी",
+                    "isOptional": false,
+                    "id": 15
+                },
+                {
+                    "name": "गुड़",
+                    "image": "",
+                    "price": 60,
+                    "quantity": "100 ग्राम",
+                    "isOptional": false,
+                    "id": 16
+                },
+                {
+                    "name": "जनेऊ",
+                    "image": "",
+                    "price": 15,
+                    "quantity": "2 पीस",
+                    "isOptional": false,
+                    "id": 17
+                },
+                {
+                    "name": "हल्दी की गांठ",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "5 पीस",
+                    "isOptional": false,
+                    "id": 18
+                },
+                {
+                    "name": "राम-नाम पुस्तिका",
+                    "image": "",
+                    "price": "",
+                    "quantity": "1 पीस",
+                    "isOptional": false,
+                    "id": 19
+                },
+                {
+                    "name": "चौकोर पत्थर काले रंग के",
+                    "image": "",
+                    "price": "",
+                    "quantity": "5 पीस",
+                    "isOptional": false,
+                    "id": 20
+                },
+                {
+                    "name": "शहद",
+                    "image": "",
+                    "price": 60,
+                    "quantity": "50 ग्राम",
+                    "isOptional": false,
+                    "id": 21
+                }
+            ],
+            "metaData": {
+                "description": "",
+                "title": "",
+                "keywords": "",
+                "image": ""
+            }
+        },
+        {
+            "id": 2,
+            "name": "भूमि-पूजन-सामग्री-लिस्ट",
+            "slug": "bhumi-pujani-(samagri)-list",
+            "images": [
+                "https://i.ytimg.com/vi/cGI3B6mIMFg/maxresdefault.jpg",
+                "https://staticimg.amarujala.com/assets/images/2020/07/24/750x506/bhumi-pujan_1595596757.jpeg",
+                "https://img.staticmb.com/mbcontent/images/uploads/2022/4/Bhumi%20Pujan%20Samagri%20List.jpg"
+            ],
+            "samagries": [
+                {
+                    "id": 1,
+                    "name": "सुपाड़ी (समूची बड़ी)",
+                    "image": "",
+                    "price": 120,
+                    "quantity": "100 ग्राम",
+                    "isOptional": false
+                },
+                {
+                    "name": "लौंग",
+                    "image": "",
+                    "price": 16,
+                    "quantity": "10 ग्राम",
+                    "isOptional": false,
+                    "id": 2
+                },
+                {
+                    "name": "इलाइची",
+                    "image": "",
+                    "price": 40,
+                    "quantity": "10 ग्राम",
+                    "isOptional": false,
+                    "id": 3
+                },
+                {
+                    "name": "सर्वोवधि",
+                    "image": "",
+                    "price": 15,
+                    "quantity": "1 डिब्बी",
+                    "isOptional": false,
+                    "id": 4
+                },
+                {
+                    "name": "सप्तमृत्तिका",
+                    "image": "",
+                    "price": 15,
+                    "quantity": "1 डिब्बी",
+                    "isOptional": false,
+                    "id": 5
+                },
+                {
+                    "name": "सप्तधान्य",
+                    "image": "",
+                    "price": 15,
+                    "quantity": " 100 ग्राम",
+                    "isOptional": false,
+                    "id": 6
+                },
+                {
+                    "name": "पीली सरसो",
+                    "image": "",
+                    "price": 10,
+                    "quantity": " 50 ग्राम",
+                    "isOptional": false,
+                    "id": 7
+                },
+                {
+                    "name": "पीला अष्टगंध चंदन",
+                    "image": "",
+                    "price": 0,
+                    "quantity": " 10 ग्राम",
+                    "isOptional": true,
+                    "id": 8
+                },
+                {
+                    "name": "लाल चंदन",
+                    "image": "",
+                    "price": 5,
+                    "quantity": " 10 ग्राम",
+                    "isOptional": false,
+                    "id": 9
+                },
+                {
+                    "name": "सफेद चंदन",
+                    "image": "",
+                    "price": 5,
+                    "quantity": " 10 ग्राम",
+                    "isOptional": false,
+                    "id": 10
+                },
+                {
+                    "name": "लाल सिन्दूर",
+                    "image": "",
+                    "price": 3,
+                    "quantity": " 10 ग्राम",
+                    "isOptional": false,
+                    "id": 11
+                },
+                {
+                    "name": "हल्दी (पीसी)",
+                    "image": "",
+                    "price": 15,
+                    "quantity": " 50 ग्राम",
+                    "isOptional": false,
+                    "id": 12
+                },
+                {
+                    "name": "हल्दी (समूची)",
+                    "image": "",
+                    "price": 15,
+                    "quantity": " 50 ग्राम",
+                    "isOptional": false,
+                    "id": 13
+                },
+                {
+                    "name": "नवग्रह चावल",
+                    "image": "",
+                    "price": 12,
+                    "quantity": "1 पैकेट",
+                    "isOptional": true,
+                    "id": 14
+                },
+                {
+                    "name": "रोली",
+                    "image": "",
+                    "price": 10,
+                    "quantity": "10 ग्राम",
+                    "isOptional": false,
+                    "id": 15
+                },
+                {
+                    "name": "पीला सिंदूर",
+                    "image": "",
+                    "price": 25,
+                    "quantity": "10 ग्राम",
+                    "isOptional": false,
+                    "id": 16
+                },
+                {
+                    "name": "जनेऊ",
+                    "image": "",
+                    "price": 15,
+                    "quantity": "5 पीस",
+                    "isOptional": false,
+                    "id": 17
+                },
+                {
+                    "name": "रुई की बत्ती (गोल/लम्बी)",
+                    "image": "",
+                    "price": 8,
+                    "quantity": "1 पैकेट",
+                    "isOptional": false,
+                    "id": 18
+                },
+                {
+                    "name": "देशी घी",
+                    "image": "",
+                    "price": 400,
+                    "quantity": "500 ग्राम",
+                    "isOptional": true,
+                    "id": 19
+                },
+                {
+                    "name": "कपूर",
+                    "image": "",
+                    "price": 28,
+                    "quantity": "20 ग्राम",
+                    "isOptional": false,
+                    "id": 20
+                },
+                {
+                    "name": "कलावा",
+                    "image": "",
+                    "price": 25,
+                    "quantity": "5 पीस",
+                    "isOptional": false,
+                    "id": 21
+                },
+                {
+                    "name": "चुनरी (लाल/ पीली)",
+                    "image": "",
+                    "price": 25,
+                    "quantity": "1/1 पीस",
+                    "isOptional": false,
+                    "id": 22
+                },
+                {
+                    "name": "अवीर- गुलाल (लाल, पीला, हरा, गुलाबी) अलग-अलग",
+                    "image": "",
+                    "price": 24,
+                    "quantity": "10 ग्राम",
+                    "isOptional": false,
+                    "id": 23
+                },
+                {
+                    "name": "बुक्का (अभ्रक)",
+                    "image": "",
+                    "price": 15,
+                    "quantity": "10 ग्राम",
+                    "isOptional": true,
+                    "id": 24
+                },
+                {
+                    "name": "गरी का गोला (सुखा)",
+                    "image": "",
+                    "price": 120,
+                    "quantity": "2 पीस",
+                    "isOptional": false,
+                    "id": 25
+                },
+                {
+                    "name": "पानी वाला नारियल",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "1 पीस",
+                    "isOptional": false,
+                    "id": 26
+                },
+                {
+                    "name": "जरादार सूखा नारियल",
+                    "image": "",
+                    "price": 25,
+                    "quantity": "1 पीस",
+                    "isOptional": false,
+                    "id": 27
+                },
+                {
+                    "name": "अक्षत (चावल)",
+                    "image": "",
+                    "price": 60,
+                    "quantity": "1 किलो",
+                    "isOptional": true,
+                    "id": 28
+                },
+                {
+                    "name": "धूपबत्ती",
+                    "image": "",
+                    "price": 15,
+                    "quantity": "1 पैकेट",
+                    "isOptional": false,
+                    "id": 29
+                },
+                {
+                    "name": "बताशा",
+                    "image": "",
+                    "price": 60,
+                    "quantity": "500 ग्राम",
+                    "isOptional": true,
+                    "id": 30
+                },
+                {
+                    "name": "लाल वस्त",
+                    "image": "",
+                    "price": 100,
+                    "quantity": "1 मीटर",
+                    "isOptional": true,
+                    "id": 31
+                },
+                {
+                    "name": "पीला वस्त",
+                    "image": "",
+                    "price": 100,
+                    "quantity": "1 मीटर",
+                    "isOptional": true,
+                    "id": 32
+                },
+                {
+                    "name": "झंडा हनुमान जी का",
+                    "image": "",
+                    "price": 45,
+                    "quantity": "1 पीस",
+                    "isOptional": false,
+                    "id": 33
+                },
+                {
+                    "name": "गंगाजल",
+                    "image": "",
+                    "price": 20,
+                    "quantity": "1 शीशी",
+                    "isOptional": false,
+                    "id": 34
+                },
+                {
+                    "name": "गुलाब जल",
+                    "image": "",
+                    "price": 20,
+                    "quantity": "1 शीशी",
+                    "isOptional": false,
+                    "id": 35
+                },
+                {
+                    "name": "कुश (पवित्ती)",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "4 पीस",
+                    "isOptional": false,
+                    "id": 36
+                },
+                {
+                    "name": "मिट्टी का कलश (बड़ा)",
+                    "image": "",
+                    "price": 100,
+                    "quantity": "1 पीस",
+                    "isOptional": true,
+                    "id": 37
+                },
+                {
+                    "name": "मिट्टी की दियाली",
+                    "image": "",
+                    "price": 16,
+                    "quantity": "8 पीस",
+                    "isOptional": false,
+                    "id": 38
+                },
+                {
+                    "name": "हवन कुण्ड",
+                    "image": "",
+                    "price": 0,
+                    "quantity": "1 पीस",
+                    "isOptional": true,
+                    "id": 39
+                },
+                {
+                    "name": "माचिस",
+                    "image": "",
+                    "price": 15,
+                    "quantity": "1 पीस",
+                    "isOptional": false,
+                    "id": 40
+                },
+                {
+                    "name": "नवग्रह समिधा",
+                    "image": "",
+                    "price": 12,
+                    "quantity": "1 पैकेट",
+                    "isOptional": true,
+                    "id": 41
+                },
+                {
+                    "name": "सुगंध कोकिला",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "50 ग्राम",
+                    "isOptional": true,
+                    "id": 42
+                },
+                {
+                    "name": "नागरमोथा",
+                    "image": "",
+                    "price": 20,
+                    "quantity": "50 ग्राम",
+                    "isOptional": false,
+                    "id": 43
+                },
+                {
+                    "name": "अगर-नगर",
+                    "image": "",
+                    "price": 20,
+                    "quantity": "100 ग्राम",
+                    "isOptional": true,
+                    "id": 44
+                },
+                {
+                    "name": "बेलगुदा",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "100 ग्राम",
+                    "isOptional": false,
+                    "id": 45
+                },
+                {
+                    "name": "सतावर",
+                    "image": "",
+                    "price": 15,
+                    "quantity": "50 ग्राम",
+                    "isOptional": true,
+                    "id": 46
+                },
+                {
+                    "name": "हवन सामग्री",
+                    "image": "",
+                    "price": 65,
+                    "quantity": "500 ग्राम",
+                    "isOptional": false,
+                    "id": 47
+                },
+                {
+                    "name": "तिल",
+                    "image": "",
+                    "price": 40,
+                    "quantity": "100 ग्राम",
+                    "isOptional": true,
+                    "id": 48
+                },
+                {
+                    "name": "गुर्च",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "50 ग्राम",
+                    "isOptional": false,
+                    "id": 49
+                },
+                {
+                    "name": "जौ",
+                    "image": "",
+                    "price": 50,
+                    "quantity": "100 ग्राम",
+                    "isOptional": false,
+                    "id": 50
+                },
+                {
+                    "name": "कस्तूरी",
+                    "image": "",
+                    "price": 50,
+                    "quantity": "1 डिब्बी",
+                    "isOptional": false,
+                    "id": 51
+                },
+                {
+                    "name": "केसर",
+                    "image": "",
+                    "price": 100,
+                    "quantity": "1 डिब्बी",
+                    "isOptional": false,
+                    "id": 52
+                },
+                {
+                    "name": "खैर की लकड़ी",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "4 पीस",
+                    "isOptional": true,
+                    "id": 53
+                },
+                {
+                    "name": "पंचमेवा",
+                    "image": "",
+                    "price": 120,
+                    "quantity": "200 ग्राम",
+                    "isOptional": false,
+                    "id": 54
+                },
+                {
+                    "name": "शहद",
+                    "image": "",
+                    "price": 60,
+                    "quantity": "50 ग्राम",
+                    "isOptional": false,
+                    "id": 55
+                },
+                {
+                    "name": "धोती (पीली/लाल)",
+                    "image": "",
+                    "price": 100,
+                    "quantity": "1 पीस",
+                    "isOptional": true,
+                    "id": 56
+                },
+                {
+                    "name": "गुड़",
+                    "image": "",
+                    "price": 60,
+                    "quantity": "500 ग्राम",
+                    "isOptional": true,
+                    "id": 57
+                },
+                {
+                    "name": "कमलगट्टा",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "100 ग्राम",
+                    "isOptional": true,
+                    "id": 58
+                },
+                {
+                    "name": "भगोछा",
+                    "image": "",
+                    "price": 400,
+                    "quantity": "1 पीस",
+                    "isOptional": false,
+                    "id": 59
+                },
+                {
+                    "name": "गुग्गुल",
+                    "image": "",
+                    "price": 800,
+                    "quantity": "100 ग्राम",
+                    "isOptional": true,
+                    "id": 60
+                },
+                {
+                    "name": "धूप लकड़ी",
+                    "image": "",
+                    "price": 0,
+                    "quantity": "100 ग्राम",
+                    "isOptional": false,
+                    "id": 61
+                },
+                {
+                    "name": "सुगंध वाला",
+                    "image": "",
+                    "price": 50,
+                    "quantity": "50 ग्राम",
+                    "isOptional": true,
+                    "id": 62
+                },
+                {
+                    "name": "जावित्री",
+                    "image": "",
+                    "price": 40,
+                    "quantity": "25 ग्राम",
+                    "isOptional": false,
+                    "id": 63
+                },
+                {
+                    "name": "आम की लड़की",
+                    "image": "",
+                    "price": 60,
+                    "quantity": "2 किलो",
+                    "isOptional": true,
+                    "id": 64
+                },
+                {
+                    "name": "इद्र जौ",
+                    "image": "",
+                    "price": 50,
+                    "quantity": "50 ग्राम",
+                    "isOptional": true,
+                    "id": 65
+                },
+                {
+                    "name": "इत्र",
+                    "image": "",
+                    "price": 20,
+                    "quantity": "1 शीशी",
+                    "isOptional": true,
+                    "id": 66
+                }
+            ],
+            "metaData": {
+                "description": "",
+                "title": "",
+                "keywords": "",
+                "image": ""
+            }
+        },
+        {
+            "id": 3,
+            "name": "रामचरित-मानस-(अखण्ड)-रामायण",
+            "slug": "ramcharit-mans-akhand-ramayan",
+            "images": [
+                "https://i.ytimg.com/vi/x-4Gs_eXN_0/maxresdefault.jpg",
+                "https://i.ytimg.com/vi/U6-WBq06mdk/maxresdefault.jpg",
+                "https://static.langimg.com/thumb/91378076/pic.jpg?width=1200&height=900"
+            ],
+            "samagries": [
+                {
+                    "name": "रोली",
+                    "image": "",
+                    "price": 6,
+                    "quantity": " 10 ग्राम",
+                    "isOptional": false,
+                    "id": 1
+                },
+                {
+                    "name": "पीला सिंदूर",
+                    "image": "",
+                    "price": 5,
+                    "quantity": " 10 ग्राम",
+                    "isOptional": false,
+                    "id": 2
+                },
+                {
+                    "name": "पीला अष्टगंध चंदन",
+                    "image": "",
+                    "price": 40,
+                    "quantity": " 10 ग्राम",
+                    "isOptional": false,
+                    "id": 3
+                },
+                {
+                    "name": "लाल चंदन",
+                    "image": "",
+                    "price": 35,
+                    "quantity": " 10 ग्राम",
+                    "isOptional": false,
+                    "id": 4
+                },
+                {
+                    "name": "सफेद चन्दन",
+                    "image": "",
+                    "price": 35,
+                    "quantity": " 10 ग्राम",
+                    "isOptional": false,
+                    "id": 5
+                },
+                {
+                    "name": "लाल सिंदूर",
+                    "image": "",
+                    "price": 5,
+                    "quantity": " 10 ग्राम",
+                    "isOptional": false,
+                    "id": 6
+                },
+                {
+                    "name": "हल्दी (पीसी)",
+                    "image": "",
+                    "price": 5,
+                    "quantity": " 50 ग्राम",
+                    "isOptional": false,
+                    "id": 7
+                },
+                {
+                    "name": "हल्दी (समूची)",
+                    "image": "",
+                    "price": 5,
+                    "quantity": " 50 ग्राम",
+                    "isOptional": false,
+                    "id": 8
+                },
+                {
+                    "name": "सुपाडी [बड़ी ]",
+                    "image": "",
+                    "price": 8,
+                    "quantity": " 100 ग्राम",
+                    "isOptional": false,
+                    "id": 9
+                },
+                {
+                    "name": "लौंग",
+                    "image": "",
+                    "price": 16,
+                    "quantity": " 10 ग्राम",
+                    "isOptional": false,
+                    "id": 10
+                },
+                {
+                    "name": "इलायची",
+                    "image": "",
+                    "price": 40,
+                    "quantity": " 10 ग्राम",
+                    "isOptional": false,
+                    "id": 11
+                },
+                {
+                    "name": "सर्वोषधि",
+                    "image": "",
+                    "price": 15,
+                    "quantity": " 1 (डिबी)",
+                    "isOptional": true,
+                    "id": 12
+                },
+                {
+                    "name": "सप्तमृतिका",
+                    "image": "",
+                    "price": 15,
+                    "quantity": " 1 (डिबी)",
+                    "isOptional": false,
+                    "id": 13
+                },
+                {
+                    "name": "सप्तधान्य",
+                    "image": "",
+                    "price": 15,
+                    "quantity": " 100 ग्राम",
+                    "isOptional": false,
+                    "id": 14
+                },
+                {
+                    "name": "पीला सरसो",
+                    "image": "",
+                    "price": 10,
+                    "quantity": " 50 ग्राम",
+                    "isOptional": false,
+                    "id": 15
+                },
+                {
+                    "name": "नवग्रह चावल",
+                    "image": "",
+                    "price": 12,
+                    "quantity": "1 पैकेट",
+                    "isOptional": false,
+                    "id": 16
+                },
+                {
+                    "name": "जनेऊ",
+                    "image": "",
+                    "price": 5,
+                    "quantity": "5 पीस",
+                    "isOptional": false,
+                    "id": 17
+                },
+                {
+                    "name": "इत्र",
+                    "image": "",
+                    "price": 20,
+                    "quantity": "1 शीशी",
+                    "isOptional": false,
+                    "id": 18
+                },
+                {
+                    "name": "गरी का गोला (सूखा) ",
+                    "image": "",
+                    "price": 60,
+                    "quantity": "2 पीस",
+                    "isOptional": false,
+                    "id": 19
+                },
+                {
+                    "name": "पानी वाला नारियल",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "1 पीस",
+                    "isOptional": false,
+                    "id": 20
+                },
+                {
+                    "name": "अक्षत चावल ",
+                    "image": "",
+                    "price": 12,
+                    "quantity": "200 ग्राम",
+                    "isOptional": false,
+                    "id": 21
+                },
+                {
+                    "name": "धूपबत्ती",
+                    "image": "",
+                    "price": 15,
+                    "quantity": "1 पैकेट",
+                    "isOptional": false,
+                    "id": 22
+                },
+                {
+                    "name": "रुई की बत्ती (गोल/ लम्बी)",
+                    "image": "",
+                    "price": 8,
+                    "quantity": "1 पैकेट",
+                    "isOptional": false,
+                    "id": 23
+                },
+                {
+                    "name": "देशी घी",
+                    "image": "",
+                    "price": 80,
+                    "quantity": "1 पैकेट",
+                    "isOptional": false,
+                    "id": 24
+                },
+                {
+                    "name": "कपूर",
+                    "image": "",
+                    "price": 28,
+                    "quantity": "20 ग्राम",
+                    "isOptional": false,
+                    "id": 25
+                },
+                {
+                    "name": "कलावा",
+                    "image": "",
+                    "price": 25,
+                    "quantity": "5 पीस",
+                    "isOptional": false,
+                    "id": 26
+                },
+                {
+                    "name": "अबीर गुलाल(लाल, पीला, हरा गुलाबी )अलग-अलग",
+                    "image": "",
+                    "price": 24,
+                    "quantity": "20 ग्राम",
+                    "isOptional": false,
+                    "id": 27
+                },
+                {
+                    "name": "अभ्रक",
+                    "image": "",
+                    "price": 15,
+                    "quantity": "10 ग्राम",
+                    "isOptional": true,
+                    "id": 28
+                },
+                {
+                    "name": "गंगाजल",
+                    "image": "",
+                    "price": 20,
+                    "quantity": "1 शीशी",
+                    "isOptional": false,
+                    "id": 29
+                },
+                {
+                    "name": "गुलाबजल",
+                    "image": "",
+                    "price": 20,
+                    "quantity": "1 शीशी",
+                    "isOptional": false,
+                    "id": 30
+                },
+                {
+                    "name": "चुनरी (लाल/पीला )",
+                    "image": "",
+                    "price": 25,
+                    "quantity": "1 पीस",
+                    "isOptional": false,
+                    "id": 31
+                },
+                {
+                    "name": "लाल वस्त्र",
+                    "image": "",
+                    "price": 100,
+                    "quantity": "1 मीटर",
+                    "isOptional": false,
+                    "id": 32
+                },
+                {
+                    "name": "पीला वस्त्र",
+                    "image": "",
+                    "price": 100,
+                    "quantity": "1 मीटर",
+                    "isOptional": false,
+                    "id": 33
+                },
+                {
+                    "name": "झंडा हनुमान जी का",
+                    "image": "",
+                    "price": 45,
+                    "quantity": "1 पीस",
+                    "isOptional": false,
+                    "id": 34
+                },
+                {
+                    "name": "कुश पवित्री",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "4 पीस",
+                    "isOptional": true,
+                    "id": 35
+                },
+                {
+                    "name": "मिट्टी का कलश",
+                    "image": "",
+                    "price": 0,
+                    "quantity": "1 बड़ा",
+                    "isOptional": false,
+                    "id": 36
+                },
+                {
+                    "name": "मिट्टी की दीपक",
+                    "image": "",
+                    "price": 0,
+                    "quantity": "1 पीस",
+                    "isOptional": false,
+                    "id": 37
+                },
+                {
+                    "name": "हवनकुण्ड",
+                    "image": "",
+                    "price": 0,
+                    "quantity": "1 पीस",
+                    "isOptional": true,
+                    "id": 38
+                },
+                {
+                    "name": "माचिस",
+                    "image": "",
+                    "price": 15,
+                    "quantity": "10 पीस",
+                    "isOptional": false,
+                    "id": 39
+                },
+                {
+                    "name": "आम की लकड़ी",
+                    "image": "",
+                    "price": 100,
+                    "quantity": "2 किलो",
+                    "isOptional": false,
+                    "id": 40
+                },
+                {
+                    "name": "नवग्रह समिधा",
+                    "image": "",
+                    "price": 12,
+                    "quantity": "1  पैकेट",
+                    "isOptional": true,
+                    "id": 41
+                },
+                {
+                    "name": "हवन सामग्री",
+                    "image": "",
+                    "price": 60,
+                    "quantity": "500 ग्राम",
+                    "isOptional": false,
+                    "id": 42
+                },
+                {
+                    "name": "तिल",
+                    "image": "",
+                    "price": 10,
+                    "quantity": "100 ग्राम",
+                    "isOptional": false,
+                    "id": 43
+                },
+                {
+                    "name": "जौ",
+                    "image": "",
+                    "price": 15,
+                    "quantity": "100 ग्राम",
+                    "isOptional": false,
+                    "id": 44
+                },
+                {
+                    "name": "गुड़",
+                    "image": "",
+                    "price": 45,
+                    "quantity": "500 ग्राम",
+                    "isOptional": false,
+                    "id": 45
+                },
+                {
+                    "name": "कमलगट्टा",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "100 ग्राम",
+                    "isOptional": false,
+                    "id": 46
+                },
+                {
+                    "name": "गुग्गुल",
+                    "image": "",
+                    "price": 10,
+                    "quantity": "100 ग्राम",
+                    "isOptional": true,
+                    "id": 47
+                },
+                {
+                    "name": "धूप लकड़ी",
+                    "image": "",
+                    "price": 0,
+                    "quantity": "100 ग्राम",
+                    "isOptional": true,
+                    "id": 48
+                },
+                {
+                    "name": "सुगंध बाला",
+                    "image": "",
+                    "price": 50,
+                    "quantity": "100 ग्राम",
+                    "isOptional": false,
+                    "id": 49
+                },
+                {
+                    "name": "सुगंध कोकिला",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "50 ग्राम",
+                    "isOptional": true,
+                    "id": 50
+                },
+                {
+                    "name": "नागरमोथा",
+                    "image": "",
+                    "price": 20,
+                    "quantity": "50 ग्राम",
+                    "isOptional": true,
+                    "id": 51
+                },
+                {
+                    "name": "जटामांसी",
+                    "image": "",
+                    "price": 20,
+                    "quantity": "50 ग्राम",
+                    "isOptional": true,
+                    "id": 52
+                },
+                {
+                    "name": "अगर-तगर",
+                    "image": "",
+                    "price": 20,
+                    "quantity": "100 ग्राम",
+                    "isOptional": true,
+                    "id": 53
+                },
+                {
+                    "name": "इन्द्र जौ",
+                    "image": "",
+                    "price": 50,
+                    "quantity": "100 ग्राम",
+                    "isOptional": true,
+                    "id": 54
+                },
+                {
+                    "name": "बेलगुदा",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "100 ग्राम",
+                    "isOptional": true,
+                    "id": 55
+                },
+                {
+                    "name": "सतावर",
+                    "image": "",
+                    "price": 15,
+                    "quantity": "100 ग्राम",
+                    "isOptional": true,
+                    "id": 56
+                },
+                {
+                    "name": "गुर्च",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "50 ग्राम",
+                    "isOptional": true,
+                    "id": 57
+                },
+                {
+                    "name": "जावित्री",
+                    "image": "",
+                    "price": 40,
+                    "quantity": "25 ग्राम",
+                    "isOptional": true,
+                    "id": 58
+                },
+                {
+                    "name": "कस्तूरी",
+                    "image": "",
+                    "price": 50,
+                    "quantity": "1 डिब्बी",
+                    "isOptional": true,
+                    "id": 59
+                },
+                {
+                    "name": "केसर",
+                    "image": "",
+                    "price": 100,
+                    "quantity": "1 डिब्बी",
+                    "isOptional": false,
+                    "id": 60
+                },
+                {
+                    "name": "शहद",
+                    "image": "",
+                    "price": 25,
+                    "quantity": "50 ग्राम",
+                    "isOptional": false,
+                    "id": 61
+                },
+                {
+                    "name": "पंचमेवा",
+                    "image": "",
+                    "price": 120,
+                    "quantity": "200 ग्राम",
+                    "isOptional": false,
+                    "id": 62
+                },
+                {
+                    "name": "पंचरत्न व पंचधातु",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "1 डिब्बी",
+                    "isOptional": false,
+                    "id": 63
+                },
+                {
+                    "name": "धोती (लाल/पीला )",
+                    "image": "",
+                    "price": 0,
+                    "quantity": "1 पीस",
+                    "isOptional": false,
+                    "id": 64
+                },
+                {
+                    "name": "अंगोछा (लाल/पीला )",
+                    "image": "",
+                    "price": 0,
+                    "quantity": "1 पीस",
+                    "isOptional": false,
+                    "id": 65
+                }
+            ],
+            "metaData": {
+                "description": "",
+                "title": "",
+                "keywords": "",
+                "image": ""
+            }
+        },
+        {
+            "id": 4,
+            "images": [
+                "https://cdn.newsnationtv.com/images/2020/10/15/whatsappimage20201015at160237-88.jpeg",
+                "https://images.news18.com/ibnkhabar/uploads/2019/04/chaitra-navratri-2019-puja-samagri-list-1.jpg",
+                "https://www.tiwaripujanbhandar.in/wp-content/uploads/2022/08/navratri-puja-kit-1.jpg"
+            ],
+            "name": "नवरात्रि पूजा सामग्री",
+            "slug": "navaratri-puja-samagri",
+            "samagries": [
+                {
+                    "name": "लाल रंग की चुनरी",
+                    "image": "",
+                    "price": 25,
+                    "quantity": "1 पीस",
+                    "isOptional": false,
+                    "id": 1
+                },
+                {
+                    "name": "लाल रेशमी चूड़ियाँ",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "11 पीस",
+                    "isOptional": false,
+                    "id": 2
+                },
+                {
+                    "name": "सिन्दूर",
+                    "image": "",
+                    "price": 25,
+                    "quantity": "25 ग्राम",
+                    "isOptional": false,
+                    "id": 3
+                },
+                {
+                    "name": "आम का पत्ता",
+                    "image": "",
+                    "price": 0,
+                    "quantity": "0",
+                    "isOptional": false,
+                    "id": 4
+                },
+                {
+                    "name": "रोई बत्ती",
+                    "image": "",
+                    "price": 5,
+                    "quantity": "1 पैकेट",
+                    "isOptional": false,
+                    "id": 5
+                },
+                {
+                    "name": "धूप",
+                    "image": "",
+                    "price": 15,
+                    "quantity": "1 पैकेट",
+                    "isOptional": false,
+                    "id": 6
+                },
+                {
+                    "name": "अगरबत्ती",
+                    "image": "",
+                    "price": 15,
+                    "quantity": "1 पैकेट",
+                    "isOptional": false,
+                    "id": 7
+                },
+                {
+                    "name": "मचिस",
+                    "image": "",
+                    "price": 2,
+                    "quantity": "2 पीस",
+                    "isOptional": false,
+                    "id": 8
+                },
+                {
+                    "name": "लाल कपड़ा",
+                    "image": "",
+                    "price": 100,
+                    "quantity": "1 पीस",
+                    "isOptional": false,
+                    "id": 9
+                },
+                {
+                    "name": "नारियल [जलयुक्त]",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "1 पीस",
+                    "isOptional": false,
+                    "id": 10
+                },
+                {
+                    "name": "दुर्गासप्तशती किताब",
+                    "image": "",
+                    "price": 0,
+                    "quantity": "1",
+                    "isOptional": false,
+                    "id": 11
+                },
+                {
+                    "name": "अक्षत",
+                    "image": "",
+                    "price": 20,
+                    "quantity": "200 ग्राम",
+                    "isOptional": false,
+                    "id": 12
+                },
+                {
+                    "name": "कुमकुम",
+                    "image": "",
+                    "price": 25,
+                    "quantity": "1 डब्बा",
+                    "isOptional": false,
+                    "id": 13
+                },
+                {
+                    "name": "मौली",
+                    "image": "",
+                    "price": 6,
+                    "quantity": "1 पैकेट",
+                    "isOptional": false,
+                    "id": 14
+                },
+                {
+                    "name": "सृंगार की सामग्री",
+                    "image": "",
+                    "price": 70,
+                    "quantity": " ",
+                    "isOptional": false,
+                    "id": 15
+                },
+                {
+                    "name": "दीपक",
+                    "image": "",
+                    "price": 0,
+                    "quantity": " ",
+                    "isOptional": false,
+                    "id": 16
+                },
+                {
+                    "name": "सुपारी",
+                    "image": "",
+                    "price": 55,
+                    "quantity": "11 पीस ",
+                    "isOptional": false,
+                    "id": 17
+                },
+                {
+                    "name": "अखण्ड दीप के लिए घी या तिल का तेल",
+                    "image": "",
+                    "price": 80,
+                    "quantity": "100 ग्राम ",
+                    "isOptional": false,
+                    "id": 18
+                },
+                {
+                    "name": "लौंग",
+                    "image": "",
+                    "price": 16,
+                    "quantity": "10 ग्राम ",
+                    "isOptional": false,
+                    "id": 19
+                },
+                {
+                    "name": "इलाइची",
+                    "image": "",
+                    "price": 40,
+                    "quantity": "10 ग्राम ",
+                    "isOptional": false,
+                    "id": 20
+                },
+                {
+                    "name": "बताशा",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "250 ग्राम ",
+                    "isOptional": false,
+                    "id": 21
+                },
+                {
+                    "name": "कपूर",
+                    "image": "",
+                    "price": 14,
+                    "quantity": "10 ग्राम ",
+                    "isOptional": false,
+                    "id": 22
+                },
+                {
+                    "name": "कलावा",
+                    "image": "",
+                    "price": 6,
+                    "quantity": "1 पैकेट ",
+                    "isOptional": false,
+                    "id": 23
+                },
+                {
+                    "name": "पंचमेवा",
+                    "image": "",
+                    "price": 150,
+                    "quantity": "250 ग्राम ",
+                    "isOptional": false,
+                    "id": 24
+                },
+                {
+                    "name": "आम की लकड़ी",
+                    "image": "",
+                    "price": 50,
+                    "quantity": "1 किलो ",
+                    "isOptional": false,
+                    "id": 25
+                },
+                {
+                    "name": "जौ",
+                    "image": "",
+                    "price": 50,
+                    "quantity": "1 किलो ",
+                    "isOptional": true,
+                    "id": 26
+                },
+                {
+                    "name": "लोबान",
+                    "image": "",
+                    "price": 60,
+                    "quantity": "100 ग्राम",
+                    "isOptional": false,
+                    "id": 27
+                },
+                {
+                    "name": "गुग्गुल",
+                    "image": "",
+                    "price": 0,
+                    "quantity": " ",
+                    "isOptional": false,
+                    "id": 28
+                },
+                {
+                    "name": "कमलगट्टी",
+                    "image": "",
+                    "price": 40,
+                    "quantity": "100 ग्राम",
+                    "isOptional": false,
+                    "id": 29
+                },
+                {
+                    "name": "हवनकुंड",
+                    "image": "",
+                    "price": 0,
+                    "quantity": " ",
+                    "isOptional": true,
+                    "id": 30
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "images": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdzFtvWIXkOZZpCtguVTjEpei_9kpLFdf3xpYs82mIi20DRJ8P3NHc7JitQUo-4DQYNeo&usqp=CAU",
+                "https://www.poojalu.com/wp-content/uploads/2017/06/Grihapravesh-Pooja.jpg",
+                "https://poojawithaacharyaji.com/wp-content/uploads/2022/09/IMG20220718113552-1024x768.jpg"
+            ],
+            "name": "गृह प्रवेश पूजा सामग्री",
+            "slug": "grih-pravesh-puja-samagri",
+            "samagries": [
+                {
+                    "name": "भगवान सत्यनारण की फोटो",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "5 पीस",
+                    "isOptional": false,
+                    "id": 1
+                },
+                {
+                    "name": "नारियल",
+                    "image": "",
+                    "price": 30,
+                    "quantity": "1 पीस",
+                    "isOptional": false,
+                    "id": 2
+                },
+                {
+                    "name": "इलाइची",
+                    "image": "",
+                    "price": 40,
+                    "quantity": "10 ग्राम",
+                    "isOptional": false,
+                    "id": 3
+                },
+                {
+                    "name": "लौंग",
+                    "image": "",
+                    "price": 16,
+                    "quantity": " 10 ग्राम",
+                    "isOptional": false,
+                    "id": 4
+                },
+                {
+                    "name": "कपूर",
+                    "image": "",
+                    "price": 35,
+                    "quantity": "25 ग्राम",
+                    "isOptional": false,
+                    "id": 5
+                },
+                {
+                    "name": "शहद",
+                    "image": "",
+                    "price": 25,
+                    "quantity": "50 ग्राम",
+                    "isOptional": false,
+                    "id": 6
+                },
+                {
+                    "name": "मिश्री",
+                    "image": "",
+                    "price": 20,
+                    "quantity": "50 ग्राम",
+                    "isOptional": false,
+                    "id": 7
+                },
+                {
+                    "name": "रोली",
+                    "image": "",
+                    "price": 10,
+                    "quantity": "10 ग्राम",
+                    "isOptional": false,
+                    "id": 8
+                },
+                {
+                    "name": "अक्षत (पीला)",
+                    "image": "",
+                    "price": 20,
+                    "quantity": "100 ग्राम",
+                    "isOptional": true,
+                    "id": 9
+                },
+                {
+                    "name": "सुपारी",
+                    "image": "",
+                    "price": 55,
+                    "quantity": "11 पीस ",
+                    "isOptional": false,
+                    "id": 10
+                },
+                {
+                    "name": "पान के पत्ते",
+                    "image": "",
+                    "price": "",
+                    "quantity": "11 पीस",
+                    "isOptional": false,
+                    "id": 11
+                },
+                {
+                    "name": "कलावा",
+                    "image": "",
+                    "price": 10,
+                    "quantity": "2 पीस",
+                    "isOptional": false,
+                    "id": 12
+                },
+                {
+                    "name": "जनेऊ",
+                    "image": "",
+                    "price": 5,
+                    "quantity": "5 पीस",
+                    "isOptional": false,
+                    "id": 13
+                },
+                {
+                    "name": "धूपबत्ती-अगरबत्ती",
+                    "image": "",
+                    "price": "15-15",
+                    "quantity": "1-1 पाकेट",
+                    "isOptional": false,
+                    "id": 14
+                },
+                {
+                    "name": "दियली",
+                    "image": "",
+                    "price": "14",
+                    "quantity": "2 पीस",
+                    "isOptional": false,
+                    "id": 15
+                },
+                {
+                    "name": "हल्दी पीसी",
+                    "image": "",
+                    "price": "10",
+                    "quantity": "25 ग्राम",
+                    "isOptional": false,
+                    "id": 16
+                },
+                {
+                    "name": "कपडा पीला",
+                    "image": "",
+                    "price": "100",
+                    "quantity": "1.25 मीटर",
+                    "isOptional": false,
+                    "id": 17
+                },
+                {
+                    "name": "पीला सरसों",
+                    "image": "",
+                    "price": "10",
+                    "quantity": "25 ग्राम",
+                    "isOptional": false,
+                    "id": 18
+                },
+                {
+                    "name": "इत्र",
+                    "image": "",
+                    "price": 20,
+                    "quantity": "1 शीशी",
+                    "isOptional": false,
+                    "id": 19
+                },
+                {
+                    "name": "पंचमेवा",
+                    "image": "",
+                    "price": 150,
+                    "quantity": "250 ग्राम",
+                    "isOptional": false,
+                    "id": 20
+                },
+                {
+                    "name": "जौ",
+                    "image": "",
+                    "price": 15,
+                    "quantity": "200 ग्राम",
+                    "isOptional": false,
+                    "id": 21
+                },
+                {
+                    "name": "काला तिल",
+                    "image": "",
+                    "price": 15,
+                    "quantity": "25 ग्राम",
+                    "isOptional": false,
+                    "id": 22
+                },
+                {
+                    "name": "सप्तधान्य",
+                    "image": "",
+                    "price": 15,
+                    "quantity": " ",
+                    "isOptional": false,
+                    "id": 23
+                },
+                {
+                    "name": "आम की लकड़ी",
+                    "image": "",
+                    "price": 50,
+                    "quantity": "1 किलो ",
+                    "isOptional": false,
+                    "id": 24
+                },
+                {
+                    "name": "हवन सामग्री",
+                    "image": "",
+                    "price": 65,
+                    "quantity": "500 ग्राम ",
+                    "isOptional": false,
+                    "id": 25
+                },
+                {
+                    "name": "लैंप के लिए गोल बत्ती ",
+                    "image": "",
+                    "price": 4,
+                    "quantity": "1 पैकेट ",
+                    "isOptional": false,
+                    "id": 26
+                }
+            ]
+        }
+    ],
+    "top_deals": [],
+    "daily_pooja_samagris": [
+        {
+            "name": "गंगाजल",
+            "image": "https://images.herzindagi.info/image/2022/Jul/gangajal-ke-totke.jpg",
+            "price": "",
+            "quantity": "1 शीशी",
+            "isOptional": false,
+            "id": 1
+        },
+        {
+            "name": "कपूर",
+            "image": "https://images.herzindagi.info/image/2022/May/burning-camphor-astrology.jpg",
+            "price": "",
+            "quantity": "20 ग्राम",
+            "isOptional": false,
+            "id": 2
+        },
+        {
+            "name": "धूपबत्ती",
+            "image": "https://m.media-amazon.com/images/I/812mKivX8ML._AC_UF1000,1000_QL80_.jpg",
+            "price": "",
+            "quantity": "1 पैकेट",
+            "isOptional": false,
+            "id": 3
+        },
+        {
+            "name": "रुई की बत्ती (गोल/ लम्बी)",
+            "image": "https://www.jiomart.com/images/product/original/rvvcirktet/bhakti2shakti-long-and-round-cotton-batti-for-diya-lambi-batti-and-gol-batti-for-puja-pure-cotton-wicks-2in1-pack-600-pieces-each-white-product-images-orvvcirktet-p603399189-0-202307310930.jpg?im=Resize=(1000,1000)",
+            "price": "",
+            "quantity": "1 पैकेट",
+            "isOptional": false,
+            "id": 4
+        },
+        {
+            "name": "देशी घी",
+            "image": "https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2023/08/A2-Desi-Hallikar-cow-ghee-picture-1_80801629971829.webp?size=*:900",
+            "price": "",
+            "quantity": "1.5 किलो",
+            "isOptional": false,
+            "id": 5
+        },
+        {
+            "name": "गरी का गोला (सूखा)",
+            "image": "https://static.langimg.com/photo/imgsize-47622,msid-89195044/navbharat-times.jpg",
+            "price": "",
+            "quantity": "2 पीस",
+            "isOptional": false,
+            "id": 6
+        },
+        {
+            "name": "पानी वाला नारियल",
+            "image": "https://images.herzindagi.info/image/2020/Sep/raw-cocount-for-health-main.jpg",
+            "price": "",
+            "quantity": "1 पीस",
+            "isOptional": false,
+            "id": 7
+        },
+        {
+            "name": "लौंग",
+            "image": "https://cdn.newsnationtv.com/images/2023/04/18/clove-56.jpeg",
+            "price": "",
+            "quantity": " 10 ग्राम",
+            "isOptional": false,
+            "id": 8
+        },
+        {
+            "name": "इलायची",
+            "image": "https://m.media-amazon.com/images/I/51E+TDU4ZwL._AC_UF1000,1000_QL80_.jpg",
+            "price": "",
+            "quantity": " 10 ग्राम",
+            "isOptional": false,
+            "id": 9
+        }
+    ]
+}
